@@ -1,2 +1,5 @@
-# eme6356-ss23-module6
- Slide deck for EME6356, Module 6: Ethics in Analytics (Spring 2023) 
+# EME6356 Module 6: Ethics in Analytics
+
+Slide deck for **EME6356, Module 6: Ethics in Analytics** (Spring 2023) 
+
+![](img/6-ethics.jpg)
